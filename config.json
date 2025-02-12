@@ -1,0 +1,25 @@
+{
+  "source": {
+    "is_advanced": true, 
+    "project_id": "0192fb98-f52d-748c-862d-7be7b9b8141a",
+    "flow_path": "ib-internal/SolEng_workspace/fs/Instabase Drive/aihub/0192fb98-f52d-748c-862d-7be7b9b8141a/project/flows/codelabs.ibflow",
+    "sb_name": "",
+    "flow_name": "",
+    "org": "SolEng",
+    "workspace": "CI-CD",
+    "app_id": "c2b08b07-34eb-49a1-88d7-e27c91fa3be5",
+    "deployment_id": "",
+    "dependencies": [""]
+  },
+  "target": {
+    "org": "<Target Instabase>",
+    "workspace": "namrata.mali_instabase.com"
+  },
+  "settings": {
+    "rebuild": false
+  },
+  "testing": {
+    "regression": {}
+  },
+  "release_notes": "abcd"
+}
