@@ -1,0 +1,25 @@
+{
+  "source": {
+    "is_advanced": true, 
+    "project_id": "",
+    "flow_path": "SolEng/CI-CD/fs/Instabase Drive/CICD_Apps/Advanced App/AdvancedApp.ibflow",
+    "sb_name": "",
+    "flow_name": "",
+    "org": "SolEng",
+    "workspace": "CI-CD",
+    "app_id": "4349609f-c897-448d-ad8f-8f3bf95aa0a1",
+    "deployment_id": "",
+    "dependencies": [""]
+  },
+  "target": {
+    "org": "ib-internal",
+    "workspace": "namrata.mali_instabase.com"
+  },
+  "settings": {
+    "rebuild": false
+  },
+  "testing": {
+    "regression": {}
+  },
+  "release_notes": "abcd"
+}
