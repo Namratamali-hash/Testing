@@ -1,0 +1,23 @@
+{
+    "appReleaseVersion": "24.50",
+    "author": "namrata.mali_instabase.com",
+    "createdAtMs": "1739353712000",
+    "description": "No release notes",
+    "id": "4349609f-c897-448d-ad8f-8f3bf95aa0a1",
+    "isCustomizable": false,
+    "linkSharingMode": "OFF",
+    "metadata": "{\"authors\": [\"namrata.mali_instabase.com\"], \"icon\": \"icon.png\", \"samples\": \"\", \"results\": \"\", \"schema\": \"schema.json\", \"is_advanced\": true, \"billing_model\": \"default\"}",
+    "name": "NamrataApp",
+    "owner": "instabase",
+    "sharedAccounts": [
+        "SolEng"
+    ],
+    "solutionType": "EXTRACTION",
+    "solution_path": "system/global/fs/Instabase Drive/Applications/Deployed/All/4349609f-c897-448d-ad8f-8f3bf95aa0a1",
+    "state": "PRODUCTION",
+    "summary": "NamrataApp",
+    "updateMode": "UPDATE_WHEN_EXPIRED",
+    "updatedAtMs": "1739353717000",
+    "version": "0.0.1",
+    "visibility": "PRIVATE"
+}
